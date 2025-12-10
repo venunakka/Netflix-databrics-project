@@ -1,6 +1,5 @@
 # Netflix-databrics-project
 
-Got it! Here’s a **simpler, clean, non-AI README** for your GitHub project:
 
 ---
 
