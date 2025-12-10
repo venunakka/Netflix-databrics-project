@@ -95,6 +95,7 @@ ORDER BY total_shows DESC;
 * Movie vs TV Shows (pie/bar chart)
 * Top genres (bar chart)
 * Ratings distribution (bar chart)
+* Top 10 Directors by Number of Shows
 
 ---
 
